@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "385798133626",
+    "firebase_url": "https://skip-the-line-f041f.firebaseio.com",
+    "project_id": "skip-the-line-f041f",
+    "storage_bucket": "skip-the-line-f041f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385798133626:android:b31fed38674f933b4928c3",
+        "android_client_info": {
+          "package_name": "com.example.shopkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385798133626-0ndv2shmetkivt5rjkimm4gvpnfu3dvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8wmvMk4eCn-DMD1FA4RRAfip96kcVmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385798133626-0ndv2shmetkivt5rjkimm4gvpnfu3dvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385798133626:android:e63c8ef0d7f7aa114928c3",
+        "android_client_info": {
+          "package_name": "com.example.skiptheline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385798133626-0ndv2shmetkivt5rjkimm4gvpnfu3dvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8wmvMk4eCn-DMD1FA4RRAfip96kcVmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385798133626-0ndv2shmetkivt5rjkimm4gvpnfu3dvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
